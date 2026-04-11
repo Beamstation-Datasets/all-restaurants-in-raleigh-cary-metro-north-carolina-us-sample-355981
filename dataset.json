@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-level restaurant data for the Raleigh-Cary area in North Carolina's Research Triangle. Captures one of the Southeast's fastest-growing dining markets, filtered by the Restaurants category group. Features business profiles, review analytics, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Raleigh-Cary (Metro), North Carolina, US",
+  "export_job_id": "cb4e928c-5a9c-444a-8c9c-fa386da0f814",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 355981,
+  "location_name": "Raleigh-Cary, NC",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-raleigh-cary-metro-north-carolina-us-sample-355981",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/355981/beamstation_355981_restaurants-us-raleighcarync_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 285,
+  "sample_sha256": "ef94f8606a9fd4b27f00706a690e034706588dcf594507c56e7ed9fc2f67e2e6",
+  "sample_size_bytes": 1015990,
+  "total_records": 2851,
+  "updated_at": "2026-04-07T09:55:51.580337+00:00"
+}

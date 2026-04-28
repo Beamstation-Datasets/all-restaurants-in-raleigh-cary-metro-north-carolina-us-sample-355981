@@ -9,9 +9,9 @@
 | Dataset ID | `355981` |
 | Location | Raleigh-Cary, NC |
 | Category | Restaurants |
-| Full dataset size | 2,700 records |
-| Free sample size | 270 records (10.0%) |
-| Last export | 2026-04-21T10:03:05.269376+00:00 |
+| Full dataset size | 2,705 records |
+| Free sample size | 270 records (9.98%) |
+| Last export | 2026-04-28T10:05:34.365030+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-raleigh-cary-metro-north-carolina-us-sample-355981/releases/download/sample-latest/beamstation_355981_restaurants-us-raleighcarync_SAMPLE_DIST.csv) |
 
 ## What is in this sample

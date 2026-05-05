@@ -1,12 +1,12 @@
 {
-  "export_job_id": "30d870b6-3dfa-417a-a374-7ed841a51d85",
+  "export_job_id": "e32c74d3-c22f-4f79-80e6-78a6d516169c",
   "id_short": 355981,
-  "published_at": "2026-04-28T19:37:33Z",
+  "published_at": "2026-05-05T19:07:39Z",
   "repo_name": "all-restaurants-in-raleigh-cary-metro-north-carolina-us-sample-355981",
   "sample_asset_name": "beamstation_355981_restaurants-us-raleighcarync_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/355981/beamstation_355981_restaurants-us-raleighcarync_SAMPLE_DIST.csv",
-  "sample_records": 270,
-  "sample_sha256": "6896aae9aa9b514f17e2e2effb181a503ef0d32174ca56addb93af73487c35f2",
-  "sample_size_bytes": 896870,
-  "total_records": 2705
+  "sample_records": 323,
+  "sample_sha256": "f1b8bfbd37d426cfd825864e8c66de56995266f32bdbfc9472e6ee42082b81b4",
+  "sample_size_bytes": 1127967,
+  "total_records": 3236
 }
